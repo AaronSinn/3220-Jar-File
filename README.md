@@ -12,6 +12,10 @@ This repo holds the jar file for 3220's assignment 1.
   e. Apply and Close
 4. You should now see the JAR under 'Referenced Libraries' in your project. Your project structrue should look simialr to the example below.
 5. Delete the file
-```bash module-info.class ```
-6. Import the classes into your project
-``` bash import assignmentOne3220.*; ```
+```bash
+module-info.class
+```
+7. Import the classes into your project
+``` bash
+import assignmentOne3220.*;
+```
