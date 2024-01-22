@@ -17,3 +17,6 @@ This repo holds the jar file for 3220's assignment 1.
 ``` bash
 import assignmentOne3220.*;
 ```
+# Example Project
+![Example](/example.png)
+
